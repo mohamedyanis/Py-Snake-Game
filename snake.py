@@ -11,7 +11,6 @@ height = 500
 cols = 25
 rows = 20
 
-
 class cube():
     rows = 20
     w = 500
@@ -41,7 +40,6 @@ class cube():
             pygame.draw.circle(surface, (0,0,0), circleMiddle, radius)
             pygame.draw.circle(surface, (0,0,0), circleMiddle2, radius)
         
-
 
 class snake():
     body = []
@@ -88,7 +86,7 @@ class snake():
                     self.turns.pop(p)
             else:
                 c.move(c.dirnx,c.dirny)
-        
+       
         
     def reset(self,pos):
         self.head = cube(pos)
@@ -122,7 +120,6 @@ class snake():
                 c.draw(surface)
 
 
-
 def redrawWindow():
     global win
     win.fill((0,0,0))
@@ -131,8 +128,6 @@ def redrawWindow():
     snack.draw(win)
     pygame.display.update()
     pass
-
-
 
 def drawGrid(w, rows, surface):
     sizeBtwn = w // rows
@@ -146,7 +141,6 @@ def drawGrid(w, rows, surface):
         pygame.draw.line(surface, (255,255,255), (x, 0),(x,w))
         pygame.draw.line(surface, (255,255,255), (0, y),(w,y))
     
-
 
 def randomSnack(rows, item):
     positions = item.body
@@ -188,11 +182,6 @@ def main():
             if s.body[x].pos in list(map(lambda z:z.pos,s.body[x+1:])):
                 print("Score:", len(s.body))
                 s.reset((10,10))
-                break
-                    
+                break                  
         redrawWindow()
-
 main()
-    
-
-    
