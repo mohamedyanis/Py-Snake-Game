@@ -2,7 +2,9 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-This is a simple snake game written in Python With Tkinter & Pygame modules.
+This is a simple snake game written in Python With Tkinter & Pygame modules.<br>
+Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.<br>
+Click <a href="https://www.pygame.org/docs/"> here</a> to read more about **pygame** module.
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
@@ -34,4 +36,5 @@ pip install random
 
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+If you find any issue just put it in the repository issue section, thank you.<br><br>
+.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
