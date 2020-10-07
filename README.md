@@ -19,7 +19,7 @@ But me..! I did it differently, every day I built an app, a game, a web page or 
 Please :star: this repo to help us improve the quality.
 
 ## Screenshots
-Begin           | playing
+Begin           | playing XD
 :---------------------:|:------------------:
 ![screenshoot](screenshots/sg1.png) | ![screenshoot](screenshots/sg2.png)
 
