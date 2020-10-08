@@ -40,8 +40,12 @@ pip install random
 4. Extract the folder.
 5. Run the ```snack.py``` file.
 
+## How To Play It
+It's easy!<br>
+1. Use arrow keys to control the snake direction.
+2. Try to eat the largest number of apples (the green object).
+3. Don't hit the wall aor eat yourself XD.
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thank you.<br><br>
 .سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
-
