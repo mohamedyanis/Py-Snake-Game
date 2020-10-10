@@ -36,7 +36,7 @@ pip install tkinter
 pip install pygame
 pip install random
 ```
-3. Install this repository, click <a href="https://github.com/mohamedyanis/Snake-Game/archive/main.zip"> here </a> to install it.
+3. Install this repository, click <a href="https://github.com/mohamedyanis/Py-Snake-Game/archive/main.zip"> here </a> to install it.
 4. Extract the folder.
 5. Run the ```snack.py``` file.
 
